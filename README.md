@@ -85,7 +85,7 @@
   <br/>
   
 
- ![Snake GIF](https://github.com/blackcolver88/blackcolver88/blob/output/github-contribution-grid-snake-dark.svg)
+ ![Snake GIF](https://github.com/blackcolver88/blob/output/github-contribution-grid-snake-dark.svg)
  
  
 <br/>
