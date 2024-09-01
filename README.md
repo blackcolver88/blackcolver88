@@ -7,10 +7,10 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `second year` software engineering's degree student in Computer Science at the National school of engineering of Carthage
+- :school: I am a `third year` software engineering's degree student in Computer Science at the National school of engineering of Carthage
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Spring boot`, `Docker`, and `Git`.
+- :student: I’m currently learning: `.NET`, `Docker`, and `Git`.
 - :thinking: I’m currently open for: `A freelance project` or a new `part job opportunity`.
 - :nerd_face: Always `learning new things`
 - :computer: `C++` Lover.
@@ -92,4 +92,4 @@
 
 -----
 
-Last Edited on: 11/03/2024
+Last Edited on: 01/09/2024
