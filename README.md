@@ -82,10 +82,10 @@
          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blackcolver88&theme=github_dark&utcOffset=1" />
      </a>
   </p>
-  <br/>
+
   
 
- ![Snake GIF](https://github.com/blackcolver88/blob/output/github-contribution-grid-snake-dark.svg)
+
  
  
 <br/>
