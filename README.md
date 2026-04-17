@@ -13,7 +13,7 @@
 - :student: I’m currently learning: `.NET` and `Kubernetes`.
 - :thinking: I’m currently open for: `A freelance project` or a new `part job opportunity`.
 - :nerd_face: Always `learning new things`
-- :computer: `C++` Lover.
+- :computer: `Java` Lover.
 
 <br>
 
