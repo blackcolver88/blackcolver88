@@ -7,7 +7,7 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `third year` software engineering's degree student in Computer Science at the National school of engineering of Carthage
+- :school: I am a software engineering working currently at ST2i
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `.NET` and `Kubernetes`.
